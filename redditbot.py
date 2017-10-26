@@ -1,3 +1,7 @@
+"""
+Based on the tutorial: https://tsaprailis.com/2016/06/02/How-to-build-and-deploy-a-Facebook-Messenger-bot-with-Python-and-Flask-a-tutorial/
+
+"""
 from flask import Flask, request
 import json
 import requests
